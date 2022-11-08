@@ -37,6 +37,7 @@ header {
     width: 100%;
     overflow: hidden;
 }
+header img {width: 100%;}
 
 /* Info text */
 #textBox {
