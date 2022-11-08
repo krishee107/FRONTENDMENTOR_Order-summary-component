@@ -36,8 +36,6 @@ main {
 header {
     width: 100%;
     overflow: hidden;
-    justify-content: center;
-    display: grid;
 }
 
 /* Info text */
